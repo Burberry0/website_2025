@@ -1,0 +1,57 @@
+Real-Time Data Intelligence Platform | Python, Elasticsearch, PostgreSQL, Docker, AWS
+September 2023 – Present
+
+Engineered a high-throughput web scraping pipeline (Python/Selenium) monitoring 15+ e-commerce platforms including Amazon, Walmart, and eBay. Captured 100K+ daily pricing, inventory, and review data points, enabling real-time Buy Box positioning and identifying emerging product trends for private label opportunities.
+
+Built automated ETL workflows (Pandas/PostgreSQL) to cleanse and structure unstructured competitor data. Transformed raw HTML into actionable insights on pricing thresholds, review velocity, and listing gaps, reducing product research time by 65% and informing Amazon PPC bid strategies.
+
+Deployed cloud-native architecture (Docker/AWS ECS) with Elasticsearch for real-time dashboards tracking market share shifts, price elasticity, and inventory turnover rates. Achieved 99.8% uptime during Prime Day/Black Friday peaks through auto-scaling groups.
+
+Business Impact:
+
+Drove 22% margin growth via dynamic repricing rules reacting to competitor price drops
+
+Identified 8 high-opportunity niches through trend analysis, generating $320K+ in new revenue
+
+Slashed excess inventory costs by 30% through predictive stockout alerts
+
+Key Enhancements & Amazon Context:
+Competitive Intelligence
+
+Added monitoring of Buy Box positioning (critical for Amazon sales)
+
+Tracked review velocity (key social proof metric) and listing gaps
+
+Enabled PPC bid optimization based on competitor pricing thresholds
+
+Amazon-Specific Outcomes
+
+Quantified impact on Prime Day/Black Friday performance
+
+Linked data to private label opportunities (core Amazon revenue stream)
+
+Addressed inventory turnover (critical for FBA profitability)
+
+Technical Depth
+
+Specified AWS ECS for container orchestration
+
+Highlighted Elasticsearch dashboards for real-time decision-making
+
+Added predictive stockout alerts for inventory optimization
+
+Revenue Focus
+
+Attached dollar values to opportunities identified ($320K+ revenue)
+
+Quantified margin improvements (22%) from repricing
+
+Included inventory cost savings (30%)
+
+Scalability
+
+Emphasized handling of peak sales events (Prime Day)
+
+Highlighted auto-scaling for high-availability systems
+
+This positions the platform as a profit-driving engine for Amazon businesses, blending technical sophistication with concrete marketplace outcomes.

@@ -1,0 +1,130 @@
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Brandon Kohler} \\ \vspace{1pt}
+    \href{mailto:brandonkohler2000@gmail.com}{\underline{Brandonkohler2000@gmail.com}} $|$ 
+    \href{https://linkedin.com/in/brandon-kohler-1788391b7}{\underline{linkedin.com/in/brandon-kohler/}} $|$
+    \href{https://github.com/Kohler123}{\underline{github.com/Kohler123}}
+\end{center}
+
+
+%-----------Objective-----------
+
+\section{Objective}
+
+    \small{Results-driven software engineer with a strong foundation in full-stack development, cloud computing, and financial technology. Experienced in building scalable applications, optimizing data pipelines, and leveraging automation to enhance operational efficiency. Passionate about applying data-driven solutions to improve financial decision-making. Seeking to contribute technical expertise and problem-solving skills to a dynamic team focused on innovation and impact.}
+
+%-----------Skills-----------
+
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Java, Python, JavaScript/TypeScript, HTML/CSS, Go, R} \\
+     
+     \textbf{Frameworks \& Libraries}{: React, Redux, Node.js, FastAPI, Elasticsearch} \\
+     
+     \textbf{Technologies \& Tools}{: Apache Spark, Apache Kafka, PostgreSQL, Cassandra, Docker, Kubernetes, Jenkins, AWS, Git, Linux, Gradle} \\
+     
+     \textbf{Specialized Tools}{: Bloomberg Terminal, SPSS, Microsoft Excel} \\
+
+    \textbf{Certifications}{: AWS Certified Cloud Practitioner, Google Data Analytics} \\
+    }}
+ \end{itemize}
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Owner - Operator }{September 2023 -- Current}
+        {P \& S Shop} {Philadelphia, PA}
+      
+      \resumeItemListStart
+        
+        \resumeItem{Built and scaled a profitable e-commerce platform from conception to deployment, leading cross-functional collaboration and implementing automated systems that improved operational efficiency by 40\%}
+        \resumeItem{Developed a real-time data pipeline using Python and web scraping technologies to integrate Amazon's SP-API, enabling dynamic pricing decisions that reduced inventory response times by 60\%}
+        \resumeItem{Automated task delegation and scheduling systems, demonstrating ownership of complex technical challenges and end-to-end product lifecycle management}
+
+    
+      \resumeItemListEnd
+    
+    \resumeSubheading
+      {Information Technology Sector Head}{September 2022 -- May 2023}
+{West Chester Investment Group} {West Chester, PA}
+      
+      \resumeItemListStart
+                
+        \resumeItem{Led a team of 8 financial analysts through data-driven decision making, conducting weekly technical workshops that improved team proficiency in quantitative analysis by 35\%}
+        \resumeItem{Implemented advanced analytics using Monte Carlo simulations, Value at Risk (VaR) modeling, and NLP sentiment analysis to process large financial datasets and inform investment strategies}
+        \resumeItem{Collaborated with non-technical stakeholders to translate complex data insights into actionable business decisions, contributing to 15\% improvement in portfolio risk-adjusted returns}
+        \resumeItem{Built automated reporting systems that processed thousands of data points daily, demonstrating ability to handle large-scale data operations}
+      
+      \resumeItemListEnd
+
+
+    %\resumeSubheading
+     % {Data Analyst}{September 2020 -- May 2022}
+    %{West Chester Investment Group}{West Chester, PA}
+      %\resumeItemListStart
+        %\resumeItem{Analyzed financial market trends and performed rigorous back-%testing on investment strategies, leading to the adoption of two high-%performing models}
+        %\resumeItem {Developed comprehensive reports and dashboards in Excel and %SQL to facilitate data-driven decisions, improving accuracy and efficiency %in portfolio management.}
+      %\resumeItemListEnd
+      
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      
+      \resumeProjectHeading
+        {\textbf{Real-Time Data Intelligence Platform} $|$ \emph{Python, Elasticsearch, PostgreSQL, Docker}}{September 2023 -- Present}
+        \resumeItemListStart
+          \resumeItem{Engineered a scalable web scraping pipeline using Python and Selenium to capture real-time pricing data from multiple e-commerce platforms, processing 100K+ data points daily}
+          \resumeItem{Implemented robust ETL processes with Pandas and PostgreSQL to clean and transform unstructured data, enabling accurate trend identification and competitor analysis}
+          \resumeItem{Built cloud-native architecture using Docker containerization, demonstrating experience with distributed systems and modern deployment practices}
+        \resumeItemListEnd
+    
+      \resumeProjectHeading
+       {\textbf{Portfolio Management System} $|$ \emph{FastAPI, React, Redux, PostgreSQL, Apache Spark}} {June 2024 -- July 2024}
+        \resumeItemListStart
+          \resumeItem{Designed and implemented a full-stack financial application using React/Redux frontend with FastAPI backend, supporting real-time portfolio tracking for 500+ transactions}
+          \resumeItem{Architected a normalized PostgreSQL database schema optimized for high-frequency trading data, achieving sub-second query response times}
+          \resumeItem{Integrated Apache Spark for large-scale data processing and built interactive visualizations that transformed complex financial metrics into actionable insights}
+        \resumeItemListEnd
+
+      \resumeProjectHeading
+        {\textbf{Microservices Deployment Platform} $|$ \emph{React, Node.js, Docker, Kubernetes, Jenkins}}{January 2023 -- May 2023}
+        \resumeItemListStart
+          \resumeItem{Built a CI/CD pipeline using Jenkins and GitHub integration to automate testing, building, and deployment processes, reducing deployment time by 70\%}
+          \resumeItem{Deployed containerized microservices using Kubernetes orchestration, ensuring high availability and fault tolerance across development and production environments}
+          \resumeItem{Implemented infrastructure as code practices using modern build tooling, demonstrating experience with industry-standard DevOps methodologies}
+        \resumeItemListEnd
+   
+    \resumeSubHeadingListEnd
+
+%-----------PROGRAMMING SKILLS-----------
+
+
+
+ \section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {West Chester University}{West Chester, PA}
+      {Bachelor of Science in Computer Science}{Aug. 2019 -- Dec 2023}
+  \resumeSubHeadingListEnd
+
+
+%-------------------------------------------
+\end{document}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with gradient -->
+  <rect width="800" height="600" fill="url(#grad1)"/>
+  
+  <!-- Abstract financial chart -->
+  <path d="M100 450 Q 200 200 300 350 T 500 250 T 700 300" 
+        stroke="url(#lineGrad)" stroke-width="4" fill="none"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="300" cy="350" r="8" fill="#3B82F6"/>
+  <circle cx="500" cy="250" r="8" fill="#3B82F6"/>
+  <circle cx="700" cy="300" r="8" fill="#3B82F6"/>
+  
+  <!-- Abstract shapes -->
+  <rect x="150" y="150" width="100" height="100" rx="20" 
+        fill="url(#shapeGrad1)" opacity="0.1" transform="rotate(15 200 200)"/>
+  <rect x="550" y="350" width="100" height="100" rx="20" 
+        fill="url(#shapeGrad2)" opacity="0.1" transform="rotate(-15 600 400)"/>
+  
+  <!-- Grid pattern -->
+  <path d="M0 200 H800 M0 400 H800" stroke="#E2E8F0" stroke-width="1" opacity="0.5"/>
+  <path d="M200 0 V600 M400 0 V600 M600 0 V600" stroke="#E2E8F0" stroke-width="1" opacity="0.5"/>
+  
+  <!-- Definitions -->
+  <defs>
+    <linearGradient id="grad1" x1="0" y1="0" x2="800" y2="600" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#F1F5F9"/>
+    </linearGradient>
+    
+    <linearGradient id="lineGrad" x1="100" y1="450" x2="700" y2="300">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    
+    <linearGradient id="shapeGrad1" x1="150" y1="150" x2="250" y2="250">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+    
+    <linearGradient id="shapeGrad2" x1="550" y1="350" x2="650" y2="450">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#1D4ED8"/>
+    </linearGradient>
+  </defs>
+</svg> 
